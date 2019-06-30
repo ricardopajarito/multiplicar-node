@@ -3,6 +3,7 @@
 Esta aplicacion genera tablas de multiplicar
 
 Ejecutar este comando
+npm install
 .....
 npm init
 npm i yargs --save
